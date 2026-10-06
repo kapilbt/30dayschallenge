@@ -17,10 +17,12 @@
 ## Tree
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/kapilbt/30dayschallenge/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/kapilbt/30dayschallenge/tree/master/0199-binary-tree-right-side-view) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/kapilbt/30dayschallenge/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/kapilbt/30dayschallenge/tree/master/0199-binary-tree-right-side-view) |
 ## Breadth-First Search
 |  |
@@ -29,5 +31,10 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/kapilbt/30dayschallenge/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/kapilbt/30dayschallenge/tree/master/0199-binary-tree-right-side-view) |
+## Stack
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/kapilbt/30dayschallenge/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
