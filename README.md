@@ -70,6 +70,7 @@
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/kapilbt/30dayschallenge/tree/master/0258-add-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kapilbt/30dayschallenge/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3886-sum-of-sortable-integers](https://github.com/kapilbt/30dayschallenge/tree/master/3886-sum-of-sortable-integers) |
 ## Sorting
@@ -128,4 +129,12 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/kapilbt/30dayschallenge/tree/master/0347-top-k-frequent-elements) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/kapilbt/30dayschallenge/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/kapilbt/30dayschallenge/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
