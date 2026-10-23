@@ -65,6 +65,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/kapilbt/30dayschallenge/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/kapilbt/30dayschallenge/tree/master/0347-top-k-frequent-elements) |
 | [3886-sum-of-sortable-integers](https://github.com/kapilbt/30dayschallenge/tree/master/3886-sum-of-sortable-integers) |
 ## Math
 |  |
@@ -75,6 +76,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/kapilbt/30dayschallenge/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/kapilbt/30dayschallenge/tree/master/0347-top-k-frequent-elements) |
 | [3886-sum-of-sortable-integers](https://github.com/kapilbt/30dayschallenge/tree/master/3886-sum-of-sortable-integers) |
 ## Enumeration
 |  |
@@ -85,6 +87,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kapilbt/30dayschallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kapilbt/30dayschallenge/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0347-top-k-frequent-elements](https://github.com/kapilbt/30dayschallenge/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
 | ------- |
@@ -106,12 +109,23 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/kapilbt/30dayschallenge/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/kapilbt/30dayschallenge/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/kapilbt/30dayschallenge/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/kapilbt/30dayschallenge/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/kapilbt/30dayschallenge/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/kapilbt/30dayschallenge/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/kapilbt/30dayschallenge/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/kapilbt/30dayschallenge/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
