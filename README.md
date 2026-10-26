@@ -26,6 +26,7 @@
 | [0112-path-sum](https://github.com/kapilbt/30dayschallenge/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kapilbt/30dayschallenge/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/kapilbt/30dayschallenge/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/kapilbt/30dayschallenge/tree/master/0222-count-complete-tree-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -56,6 +57,7 @@
 | [0112-path-sum](https://github.com/kapilbt/30dayschallenge/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kapilbt/30dayschallenge/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/kapilbt/30dayschallenge/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/kapilbt/30dayschallenge/tree/master/0222-count-complete-tree-nodes) |
 ## Stack
 |  |
 | ------- |
@@ -105,6 +107,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/kapilbt/30dayschallenge/tree/master/0222-count-complete-tree-nodes) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kapilbt/30dayschallenge/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Divide and Conquer
 |  |
@@ -137,4 +140,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/kapilbt/30dayschallenge/tree/master/0258-add-digits) |
+## Binary Search
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/kapilbt/30dayschallenge/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
