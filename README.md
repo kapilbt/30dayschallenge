@@ -37,6 +37,7 @@
 | [0112-path-sum](https://github.com/kapilbt/30dayschallenge/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kapilbt/30dayschallenge/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/kapilbt/30dayschallenge/tree/master/0199-binary-tree-right-side-view) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kapilbt/30dayschallenge/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -46,6 +47,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/kapilbt/30dayschallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/kapilbt/30dayschallenge/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/kapilbt/30dayschallenge/tree/master/0199-binary-tree-right-side-view) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kapilbt/30dayschallenge/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -70,6 +72,7 @@
 | [0347-top-k-frequent-elements](https://github.com/kapilbt/30dayschallenge/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kapilbt/30dayschallenge/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0973-k-closest-points-to-origin](https://github.com/kapilbt/30dayschallenge/tree/master/0973-k-closest-points-to-origin) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kapilbt/30dayschallenge/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3886-sum-of-sortable-integers](https://github.com/kapilbt/30dayschallenge/tree/master/3886-sum-of-sortable-integers) |
 ## Math
 |  |
@@ -166,4 +169,9 @@
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kapilbt/30dayschallenge/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kapilbt/30dayschallenge/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Union-Find
+|  |
+| ------- |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kapilbt/30dayschallenge/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
