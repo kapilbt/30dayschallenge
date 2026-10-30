@@ -7,4 +7,4 @@ class Solution {
         }
         return len < s.length() ? len + 1 : len;
     }
-}
+} 
