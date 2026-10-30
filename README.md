@@ -37,6 +37,7 @@
 | [0112-path-sum](https://github.com/kapilbt/30dayschallenge/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kapilbt/30dayschallenge/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/kapilbt/30dayschallenge/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/kapilbt/30dayschallenge/tree/master/0200-number-of-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kapilbt/30dayschallenge/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
@@ -47,6 +48,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/kapilbt/30dayschallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/kapilbt/30dayschallenge/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/kapilbt/30dayschallenge/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/kapilbt/30dayschallenge/tree/master/0200-number-of-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kapilbt/30dayschallenge/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
@@ -68,6 +70,7 @@
 ## Array
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/kapilbt/30dayschallenge/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kapilbt/30dayschallenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0228-summary-ranges](https://github.com/kapilbt/30dayschallenge/tree/master/0228-summary-ranges) |
 | [0347-top-k-frequent-elements](https://github.com/kapilbt/30dayschallenge/tree/master/0347-top-k-frequent-elements) |
@@ -173,11 +176,13 @@
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/kapilbt/30dayschallenge/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kapilbt/30dayschallenge/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kapilbt/30dayschallenge/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/kapilbt/30dayschallenge/tree/master/0200-number-of-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kapilbt/30dayschallenge/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
