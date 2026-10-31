@@ -82,6 +82,7 @@
 | [0200-number-of-islands](https://github.com/kapilbt/30dayschallenge/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kapilbt/30dayschallenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0228-summary-ranges](https://github.com/kapilbt/30dayschallenge/tree/master/0228-summary-ranges) |
+| [0268-missing-number](https://github.com/kapilbt/30dayschallenge/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/kapilbt/30dayschallenge/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kapilbt/30dayschallenge/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0973-k-closest-points-to-origin](https://github.com/kapilbt/30dayschallenge/tree/master/0973-k-closest-points-to-origin) |
@@ -94,6 +95,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/kapilbt/30dayschallenge/tree/master/0002-add-two-numbers) |
 | [0258-add-digits](https://github.com/kapilbt/30dayschallenge/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/kapilbt/30dayschallenge/tree/master/0268-missing-number) |
 | [0973-k-closest-points-to-origin](https://github.com/kapilbt/30dayschallenge/tree/master/0973-k-closest-points-to-origin) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kapilbt/30dayschallenge/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3886-sum-of-sortable-integers](https://github.com/kapilbt/30dayschallenge/tree/master/3886-sum-of-sortable-integers) |
@@ -102,6 +104,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/kapilbt/30dayschallenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/kapilbt/30dayschallenge/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/kapilbt/30dayschallenge/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/kapilbt/30dayschallenge/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kapilbt/30dayschallenge/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0973-k-closest-points-to-origin](https://github.com/kapilbt/30dayschallenge/tree/master/0973-k-closest-points-to-origin) |
@@ -116,6 +119,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/kapilbt/30dayschallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kapilbt/30dayschallenge/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0242-valid-anagram](https://github.com/kapilbt/30dayschallenge/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/kapilbt/30dayschallenge/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/kapilbt/30dayschallenge/tree/master/0347-top-k-frequent-elements) |
 | [0409-longest-palindrome](https://github.com/kapilbt/30dayschallenge/tree/master/0409-longest-palindrome) |
 | [0997-find-the-town-judge](https://github.com/kapilbt/30dayschallenge/tree/master/0997-find-the-town-judge) |
@@ -139,6 +143,7 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/kapilbt/30dayschallenge/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/kapilbt/30dayschallenge/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kapilbt/30dayschallenge/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Divide and Conquer
 |  |
@@ -180,6 +185,7 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/kapilbt/30dayschallenge/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/kapilbt/30dayschallenge/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kapilbt/30dayschallenge/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Geometry
 |  |
