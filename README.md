@@ -127,6 +127,7 @@
 | [0242-valid-anagram](https://github.com/kapilbt/30dayschallenge/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kapilbt/30dayschallenge/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/kapilbt/30dayschallenge/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/kapilbt/30dayschallenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/kapilbt/30dayschallenge/tree/master/0409-longest-palindrome) |
 | [0997-find-the-town-judge](https://github.com/kapilbt/30dayschallenge/tree/master/0997-find-the-town-judge) |
 ## String
@@ -136,6 +137,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kapilbt/30dayschallenge/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0168-excel-sheet-column-title](https://github.com/kapilbt/30dayschallenge/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/kapilbt/30dayschallenge/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/kapilbt/30dayschallenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/kapilbt/30dayschallenge/tree/master/0409-longest-palindrome) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/kapilbt/30dayschallenge/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Sliding Window
@@ -184,6 +186,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/kapilbt/30dayschallenge/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/kapilbt/30dayschallenge/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/kapilbt/30dayschallenge/tree/master/0387-first-unique-character-in-a-string) |
 ## Simulation
 |  |
 | ------- |
@@ -249,6 +252,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/kapilbt/30dayschallenge/tree/master/0225-implement-stack-using-queues) |
+| [0387-first-unique-character-in-a-string](https://github.com/kapilbt/30dayschallenge/tree/master/0387-first-unique-character-in-a-string) |
 ## Merge Sort
 |  |
 | ------- |
