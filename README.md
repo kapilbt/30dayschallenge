@@ -94,6 +94,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kapilbt/30dayschallenge/tree/master/0002-add-two-numbers) |
+| [0168-excel-sheet-column-title](https://github.com/kapilbt/30dayschallenge/tree/master/0168-excel-sheet-column-title) |
 | [0258-add-digits](https://github.com/kapilbt/30dayschallenge/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/kapilbt/30dayschallenge/tree/master/0268-missing-number) |
 | [0973-k-closest-points-to-origin](https://github.com/kapilbt/30dayschallenge/tree/master/0973-k-closest-points-to-origin) |
@@ -128,6 +129,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kapilbt/30dayschallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kapilbt/30dayschallenge/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0168-excel-sheet-column-title](https://github.com/kapilbt/30dayschallenge/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/kapilbt/30dayschallenge/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/kapilbt/30dayschallenge/tree/master/0409-longest-palindrome) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/kapilbt/30dayschallenge/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
