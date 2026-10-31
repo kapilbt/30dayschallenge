@@ -79,6 +79,7 @@
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/kapilbt/30dayschallenge/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/kapilbt/30dayschallenge/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kapilbt/30dayschallenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0228-summary-ranges](https://github.com/kapilbt/30dayschallenge/tree/master/0228-summary-ranges) |
@@ -103,6 +104,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/kapilbt/30dayschallenge/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kapilbt/30dayschallenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/kapilbt/30dayschallenge/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kapilbt/30dayschallenge/tree/master/0268-missing-number) |
@@ -119,6 +121,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kapilbt/30dayschallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kapilbt/30dayschallenge/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0169-majority-element](https://github.com/kapilbt/30dayschallenge/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/kapilbt/30dayschallenge/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kapilbt/30dayschallenge/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/kapilbt/30dayschallenge/tree/master/0347-top-k-frequent-elements) |
@@ -150,6 +153,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/kapilbt/30dayschallenge/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kapilbt/30dayschallenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/kapilbt/30dayschallenge/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/kapilbt/30dayschallenge/tree/master/0973-k-closest-points-to-origin) |
@@ -174,6 +178,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/kapilbt/30dayschallenge/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/kapilbt/30dayschallenge/tree/master/0347-top-k-frequent-elements) |
 ## Simulation
 |  |
@@ -228,4 +233,8 @@
 |  |
 | ------- |
 | [3665-twisted-mirror-path-count](https://github.com/kapilbt/30dayschallenge/tree/master/3665-twisted-mirror-path-count) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kapilbt/30dayschallenge/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
