@@ -59,6 +59,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/kapilbt/30dayschallenge/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/kapilbt/30dayschallenge/tree/master/0200-number-of-islands) |
 | [0841-keys-and-rooms](https://github.com/kapilbt/30dayschallenge/tree/master/0841-keys-and-rooms) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/kapilbt/30dayschallenge/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kapilbt/30dayschallenge/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
@@ -157,6 +158,7 @@
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/kapilbt/30dayschallenge/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/kapilbt/30dayschallenge/tree/master/0268-missing-number) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/kapilbt/30dayschallenge/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kapilbt/30dayschallenge/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Divide and Conquer
 |  |
@@ -229,6 +231,7 @@
 |  |
 | ------- |
 | [0841-keys-and-rooms](https://github.com/kapilbt/30dayschallenge/tree/master/0841-keys-and-rooms) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/kapilbt/30dayschallenge/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0997-find-the-town-judge](https://github.com/kapilbt/30dayschallenge/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/kapilbt/30dayschallenge/tree/master/1791-find-center-of-star-graph) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/kapilbt/30dayschallenge/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
@@ -243,6 +246,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/kapilbt/30dayschallenge/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [3665-twisted-mirror-path-count](https://github.com/kapilbt/30dayschallenge/tree/master/3665-twisted-mirror-path-count) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -265,4 +269,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kapilbt/30dayschallenge/tree/master/0023-merge-k-sorted-lists) |
+## Bitmask
+|  |
+| ------- |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/kapilbt/30dayschallenge/tree/master/0847-shortest-path-visiting-all-nodes) |
 <!---LeetCode Topics End-->
