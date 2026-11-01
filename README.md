@@ -84,6 +84,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/kapilbt/30dayschallenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kapilbt/30dayschallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0169-majority-element](https://github.com/kapilbt/30dayschallenge/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/kapilbt/30dayschallenge/tree/master/0200-number-of-islands) |
@@ -165,6 +166,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/kapilbt/30dayschallenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/kapilbt/30dayschallenge/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/kapilbt/30dayschallenge/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kapilbt/30dayschallenge/tree/master/0215-kth-largest-element-in-an-array) |
@@ -206,6 +208,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/kapilbt/30dayschallenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0222-count-complete-tree-nodes](https://github.com/kapilbt/30dayschallenge/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/kapilbt/30dayschallenge/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kapilbt/30dayschallenge/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
