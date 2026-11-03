@@ -99,6 +99,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kapilbt/30dayschallenge/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0973-k-closest-points-to-origin](https://github.com/kapilbt/30dayschallenge/tree/master/0973-k-closest-points-to-origin) |
 | [0997-find-the-town-judge](https://github.com/kapilbt/30dayschallenge/tree/master/0997-find-the-town-judge) |
+| [1436-destination-city](https://github.com/kapilbt/30dayschallenge/tree/master/1436-destination-city) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kapilbt/30dayschallenge/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/kapilbt/30dayschallenge/tree/master/3665-twisted-mirror-path-count) |
 | [3886-sum-of-sortable-integers](https://github.com/kapilbt/30dayschallenge/tree/master/3886-sum-of-sortable-integers) |
@@ -142,6 +143,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/kapilbt/30dayschallenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/kapilbt/30dayschallenge/tree/master/0409-longest-palindrome) |
 | [0997-find-the-town-judge](https://github.com/kapilbt/30dayschallenge/tree/master/0997-find-the-town-judge) |
+| [1436-destination-city](https://github.com/kapilbt/30dayschallenge/tree/master/1436-destination-city) |
 ## String
 |  |
 | ------- |
@@ -152,6 +154,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/kapilbt/30dayschallenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/kapilbt/30dayschallenge/tree/master/0409-longest-palindrome) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kapilbt/30dayschallenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1436-destination-city](https://github.com/kapilbt/30dayschallenge/tree/master/1436-destination-city) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/kapilbt/30dayschallenge/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Sliding Window
 |  |
