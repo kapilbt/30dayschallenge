@@ -104,6 +104,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/kapilbt/30dayschallenge/tree/master/0973-k-closest-points-to-origin) |
 | [0997-find-the-town-judge](https://github.com/kapilbt/30dayschallenge/tree/master/0997-find-the-town-judge) |
 | [1436-destination-city](https://github.com/kapilbt/30dayschallenge/tree/master/1436-destination-city) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kapilbt/30dayschallenge/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/kapilbt/30dayschallenge/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kapilbt/30dayschallenge/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/kapilbt/30dayschallenge/tree/master/3665-twisted-mirror-path-count) |
@@ -170,6 +171,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kapilbt/30dayschallenge/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kapilbt/30dayschallenge/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/kapilbt/30dayschallenge/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Backtracking
 |  |
@@ -274,6 +276,7 @@
 |  |
 | ------- |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/kapilbt/30dayschallenge/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kapilbt/30dayschallenge/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/kapilbt/30dayschallenge/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/kapilbt/30dayschallenge/tree/master/3665-twisted-mirror-path-count) |
 ## Boyer–Moore Majority Vote Algorithm
