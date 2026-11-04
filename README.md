@@ -99,6 +99,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kapilbt/30dayschallenge/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/kapilbt/30dayschallenge/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kapilbt/30dayschallenge/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0605-can-place-flowers](https://github.com/kapilbt/30dayschallenge/tree/master/0605-can-place-flowers) |
 | [0973-k-closest-points-to-origin](https://github.com/kapilbt/30dayschallenge/tree/master/0973-k-closest-points-to-origin) |
 | [0997-find-the-town-judge](https://github.com/kapilbt/30dayschallenge/tree/master/0997-find-the-town-judge) |
 | [1436-destination-city](https://github.com/kapilbt/30dayschallenge/tree/master/1436-destination-city) |
@@ -266,6 +267,7 @@
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/kapilbt/30dayschallenge/tree/master/0409-longest-palindrome) |
+| [0605-can-place-flowers](https://github.com/kapilbt/30dayschallenge/tree/master/0605-can-place-flowers) |
 ## Dynamic Programming
 |  |
 | ------- |
