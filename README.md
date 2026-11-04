@@ -95,6 +95,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/kapilbt/30dayschallenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0228-summary-ranges](https://github.com/kapilbt/30dayschallenge/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/kapilbt/30dayschallenge/tree/master/0268-missing-number) |
+| [0334-increasing-triplet-subsequence](https://github.com/kapilbt/30dayschallenge/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/kapilbt/30dayschallenge/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kapilbt/30dayschallenge/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/kapilbt/30dayschallenge/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -266,6 +267,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/kapilbt/30dayschallenge/tree/master/0334-increasing-triplet-subsequence) |
 | [0409-longest-palindrome](https://github.com/kapilbt/30dayschallenge/tree/master/0409-longest-palindrome) |
 | [0605-can-place-flowers](https://github.com/kapilbt/30dayschallenge/tree/master/0605-can-place-flowers) |
 ## Dynamic Programming
@@ -299,4 +301,8 @@
 |  |
 | ------- |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/kapilbt/30dayschallenge/tree/master/0847-shortest-path-visiting-all-nodes) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/kapilbt/30dayschallenge/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
