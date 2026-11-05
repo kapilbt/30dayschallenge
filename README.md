@@ -27,6 +27,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kapilbt/30dayschallenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kapilbt/30dayschallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/kapilbt/30dayschallenge/tree/master/0088-merge-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/kapilbt/30dayschallenge/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Tree
 |  |
 | ------- |
@@ -103,6 +104,7 @@
 | [0605-can-place-flowers](https://github.com/kapilbt/30dayschallenge/tree/master/0605-can-place-flowers) |
 | [0973-k-closest-points-to-origin](https://github.com/kapilbt/30dayschallenge/tree/master/0973-k-closest-points-to-origin) |
 | [0997-find-the-town-judge](https://github.com/kapilbt/30dayschallenge/tree/master/0997-find-the-town-judge) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/kapilbt/30dayschallenge/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1436-destination-city](https://github.com/kapilbt/30dayschallenge/tree/master/1436-destination-city) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kapilbt/30dayschallenge/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/kapilbt/30dayschallenge/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -136,6 +138,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kapilbt/30dayschallenge/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kapilbt/30dayschallenge/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0973-k-closest-points-to-origin](https://github.com/kapilbt/30dayschallenge/tree/master/0973-k-closest-points-to-origin) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/kapilbt/30dayschallenge/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3886-sum-of-sortable-integers](https://github.com/kapilbt/30dayschallenge/tree/master/3886-sum-of-sortable-integers) |
 ## Enumeration
 |  |
@@ -234,6 +237,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/kapilbt/30dayschallenge/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/kapilbt/30dayschallenge/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kapilbt/30dayschallenge/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/kapilbt/30dayschallenge/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Geometry
 |  |
 | ------- |
